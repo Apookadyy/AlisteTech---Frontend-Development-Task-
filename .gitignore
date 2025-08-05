@@ -1,1 +1,14 @@
 node_modules/ 
+# Node modules
+node_modules/
+# Android
+android/.gradle/
+android/app/build/
+# iOS
+ios/Pods/
+# Expo
+.expo/
+.expo-shared/
+# Others
+*.log
+.env
