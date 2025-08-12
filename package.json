@@ -9,7 +9,7 @@
     "web": "expo start --web"
   },
   "engines": {
-    "node": "20.x"
+    "node": "22.18.0"
   },
   "dependencies": {
     "@react-navigation/native": "^7.1.17",
