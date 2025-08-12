@@ -2,8 +2,12 @@
   "name": "mea",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
+
+
   "scripts": {
-    "start": "node src/index.js",
+    "start": "ts-node src/index.js",
+    "build": "tsc",
     "android": "expo run:android",
     "ios": "expo run:ios",
     "web": "expo start --web"
