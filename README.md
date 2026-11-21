@@ -72,8 +72,6 @@ Make sure package.json has:
 }
 
 
-📄 License
-MIT License
 
 
 
@@ -82,4 +80,4 @@ MIT License
 
 
 
-Ask ChatGPT
+
